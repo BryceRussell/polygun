@@ -22,9 +22,9 @@ Config.addZControl = 10  -- Page up
 Config.subZControl = 11  -- Page down
 
 -- Amount to add/subtract when tweaking scale for Z/Y/Z
-Config.addX = 0.05
-Config.subX = 0.05
-Config.addY = 0.05
-Config.subY = 0.05
-Config.addZ = 0.01
-Config.subZ = 0.01
+Config.addX = 0.033
+Config.subX = 0.033
+Config.addY = 0.033
+Config.subY = 0.033
+Config.addZ = 0.033
+Config.subZ = 0.033
