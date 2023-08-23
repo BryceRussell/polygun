@@ -1,6 +1,6 @@
 # `polygun`
 
-Easily create polyzones around objects for configuring 
+Easily create polyzones around objects and save for configuring 
 
 ![image](https://github.com/BryceRussell/polygun/assets/19967622/26c96993-aba7-4089-8cde-1d1956919651)
 
