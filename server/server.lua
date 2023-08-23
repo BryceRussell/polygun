@@ -1,0 +1,7 @@
+RegisterNetEvent("polygun:save")
+AddEventHandler("polygun:save", function(zone, text)
+  file = io.open(GetResourcePath('polygun') .. "/zones.txt", "a")
+  io.output(file)
+  io.write("--Name: " .. zone.name .. " | " .. os.date("!%Y-%m-%dT%H:%M:%SZ\n") .. text)
+  io.close(file)
+end)
